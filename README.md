@@ -49,11 +49,11 @@
 
 ---
 
-### 📫 Let's Connect
+### 📫 Connect With Me
 
 <p align="center">
-  <a href="[https://linkedin.com/in/oguzkokce](https://www.linkedin.com/in/oğuz-kökçe-797a9a204/)"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"></a>
-  <a href="mailto:kokceoguz@gmail.com"><img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail"></a>
+  <a href="https://www.linkedin.com/in/oğuz-kökçe-797a9a204/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"></a>
+  <a href="mailto:oguzkokce@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
 
 ---
