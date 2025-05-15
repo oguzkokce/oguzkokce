@@ -1,57 +1,64 @@
-# 👋 Hi, I'm Oğuz Kökçe
-
-🎓 Computer Engineering Student | 💻 Full-Stack Developer | ⚽ Tech & Game Enthusiast
-
-Welcome to my GitHub! I'm passionate about building clean, scalable, and impactful digital products. I enjoy solving real-world problems with modern web & mobile technologies — from booking platforms to games and smart apps.
-
----
-
-## 🛠 Tech Stack
-
-**Languages & Frameworks**  
-- JavaScript / TypeScript – React, Next.js  
-- Node.js – Express  
-- Swift / SwiftUI  
-- Python  
-
-**Databases & Backend**  
-- MongoDB  
-- Firebase / Supabase  
-- REST APIs & Webhooks  
-
-**Tools & Others**  
-- Git & GitHub  
-- Postman  
-- Docker (basic)  
-- Stripe, Iyzico (Payments)  
-- ChatGPT / OpenAI API  
-
----
-
-## 🚀 Projects
-
-### 🔹 [HalıSahacım](https://halisahacim.com)  
-A football field reservation platform with real-time booking, location filtering, and 3D Secure payment integration.
-
-### 🔹 LocalGuideApp (iOS + Node.js)  
-A mobile app that connects tourists with local guides using filters like city, language, and guide type.
-
-### 🔹 Patlat! Block Puzzle Game  
-An original 10x10 block puzzle game built with Swift + SpriteKit. Includes combo scoring, rotation mechanics, and game over logic.
-
----
-
-## 📈 GitHub Stats
+<h1 align="center">Hi, I'm Oğuz Kökçe 👋</h1>
+<p align="center">
+  <b>🚀 Full-Stack Developer | 🎮 Game Maker | 🧠 AI & Systems Enthusiast</b><br/>
+  <i>Turning ideas into reality, one line of code at a time.</i>
+</p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=oguzkokce&show_icons=true&theme=default" width="400"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oguzkokce&layout=compact" width="300"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2000&center=true&vCenter=true&width=500&lines=Computer+Engineering+Student;Full-Stack+Web+Developer;SwiftUI+iOS+Developer;Node.js+Backend+Architect;Cybersecurity+Learner;Loves+to+Build+Things+%F0%9F%9A%80" />
 </p>
 
 ---
 
-## 📫 Get in Touch
+### 🧰 Tech Toolbox
 
-- ✉️ [LinkedIn](https://linkedin.com/in/oguzkokce)  
-- 📧 oguzkokce@gmail.com  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,mongodb,firebase,supabase,swift,figma,tailwind,vercel,git,docker" />
+</p>
 
+---
+
+### 🔥 Featured Projects
+
+- ⚽ **[HalıSahacım](https://halisahacim.com)**  
+  Football field reservation system with location-based search, time-slot booking, and Iyzico 3D Secure payment system.
+
+- 🧭 **LocalGuideApp**  
+  SwiftUI + Node.js mobile app that connects tourists with local guides using filters like city, language, and gender.
+
+- 🧩 **Patlat! (iOS Game)**  
+  A clean and modern block puzzle game with rotation logic, combo system, and explosion animations — built with Swift + SpriteKit.
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=oguzkokce&show_icons=true&theme=tokyonight" width="420"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oguzkokce&layout=compact&theme=tokyonight" width="320"/>
+</p>
+
+---
+
+### 💡 Currently Exploring
+
+- 🤖 AI integrations (OpenAI API, AI assistants)  
+- ⚙️ Low-code automation (Make.com / Zapier)  
+- 🛡️ Cybersecurity (pentesting & network tools)  
+- 🎮 Advanced Swift game mechanics (with physics, score logic, dynamic UI)
+
+---
+
+### 📫 Let's Connect
+
+<p align="center">
+  <a href="https://linkedin.com/in/oguzkokce"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"></a>
+  <a href="mailto:oguzkokce@gmail.com"><img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail"></a>
+  <a href="https://bionluk.com/oguzkokce"><img src="https://img.shields.io/badge/Bionluk-black?style=for-the-badge&logo=freelancer"></a>
+</p>
+
+---
+
+<p align="center">
+  <i>"Build boldly. Break nothing. Keep learning."</i>
+</p>
